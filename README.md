@@ -1,3 +1,0 @@
-# nlw-react
-
-test
